@@ -16,7 +16,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-📚 Passionate about SE , ML and DevOps<br>-</p>
+📚 I am Passionate about SE , ML and DevOps<br>-</p>
 
 ###
 <!--
