@@ -1,51 +1,85 @@
 ###
-
-
 ###
-
 <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋 I am Bashitha Shamila</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Bashitha+Shamila;From+Colombo+Sri+Lanka&center=true&size=30">
+  </a>
+</h1>
 
 ###
-📚 I am Passionate about SE , ML and DevOps<br>-</p>
+
+<h3 align="left">...</h3>
 
 ###
-<!--
-<h3 align="left">🛠 Language and tools</h3>
--->
+
+<img width="20%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+- 📫 reach me: **bashitha.22@cse.mrt.ac.lk** | **[LinkedIn](https://www.linkedin.com/in/bashitha-shamila)**
+
+
+
+<h3>🔥 Streak Stats</h3>
+<p>
+  <a href="https://github.com/BashithaShamila/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bashitha's streak" src="https://streak-stats.demolab.com/?user=BashithaShamila&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bashitha's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=BashithaShamila&show_icons=true&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bashitha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashithaShamila&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <br/>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bashitha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BashithaShamila&theme=tokyo-night" /></a>
+</p>
+
 ###
+
+<h3 align="left">🛠 Language and Tools</h3>
 
 <div align="left">
-<!--   <img src="https://images.app.goo.gl/6KDFHQN62M4vP11r6" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
+  
 </div>
 
 ###
 
+<h3>🤝 Connect with me</h3>
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/bashitha-shamila">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:bashitha.22@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BashithaShamila&label=Profile%20views&color=0e75b6&style=flat" alt="bashitha-shamila" />
+</div>
+
+###
 ###
