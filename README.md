@@ -16,7 +16,7 @@
 
 ###
 
-<img width="20%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 
 - 📫 reach me: **bashitha.22@cse.mrt.ac.lk** | **[LinkedIn](https://www.linkedin.com/in/bashitha-shamila)**
 
