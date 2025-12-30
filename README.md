@@ -22,20 +22,9 @@
 
 
 
-<h3>🔥 Streak Stats</h3>
-<p>
-  <a href="https://github.com/BashithaShamila/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bashitha's streak" src="https://streak-stats.demolab.com/?user=BashithaShamila&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
-<h3>💻 GitHub Profile Stats</h3>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bashitha's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=BashithaShamila&show_icons=true&theme=tokyonight&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bashitha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashithaShamila&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/></a>
-  <br/>
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bashitha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BashithaShamila&theme=tokyo-night" /></a>
+  
 </p>
 
 ###
